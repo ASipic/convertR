@@ -1,0 +1,15 @@
+Package: convertR
+Title: Converts From One Type of Unit to Another
+Version: 0.0.0.9000
+Authors@R: 
+    person("Andrea", "Sipic", , "sipicandrea1@gmail.com", role = c("aut", "cre"))
+Description: Convertst from one type of unit to another. 
+    Temperature units (such as Fahrenheit, Celsius and Kelvin). 
+    Imperial units (such as feet, pints, ounces) to metric units.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
